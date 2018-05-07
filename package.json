@@ -1,5 +1,8 @@
 {
   "name": "follow-the-money",
   "version": "0.1.0",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "victory": "^0.26.0"
+  }
 }
